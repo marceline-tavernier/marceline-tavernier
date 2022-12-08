@@ -1,5 +1,4 @@
 # Marceline Tavernier
-
 - 👋 Hi, I’m @marceline-tavernier
 - 👀 I’m interested in video games, programming, astronomy and biking
 - 🌱 I’m currently learning computer science
@@ -7,7 +6,6 @@
 - 📫 How to reach me : tavernier.2002@gmail.com
 
 ## My projects
-
 | Projects | Start date | End date | Finished |
 | :---: | :---: | :---: | :---: |
 | [Sequel of Osu](https://github.com/marceline-tavernier/sequel-osu) | February 2018 | August 2022 | 🟩 |
