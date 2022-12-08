@@ -19,5 +19,6 @@
 | :---: | :---: |
 | 🟦 | Work in progress |
 | 🟩 | Finished |
-| 🟨 | Not finished but might work on it again |
+| 🟨 | Finished but might add other features later |
+| :orange_square | Not finished but might work on it again |
 | 🟥 | Not finished and will not work on it again |
