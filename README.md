@@ -17,6 +17,7 @@
 
 | Colors | Meaning |
 | :---: | :---: |
+| 🟪 | Future project |
 | 🟦 | Work in progress |
 | 🟩 | Finished |
 | 🟨 | Finished but might add other features later |
