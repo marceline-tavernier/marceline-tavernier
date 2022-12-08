@@ -12,3 +12,12 @@
 | :---: | :---: | :---: | :---: |
 | [Sequel of Osu](https://github.com/marceline-tavernier/sequel-osu) | February 2018 | August 2022 | 🟩 |
 | [Starfield](https://github.com/marceline-tavernier/starfield) | September 2022 | Same month | 🟩 |
+
+## Details
+
+| Colors | Meaning |
+| :---: | :---: |
+| 🟦 | Work in progress |
+| 🟩 | Finished |
+| 🟨 | Not finished but might work on it again |
+| 🟥 | Not finished and will not work on it again |
