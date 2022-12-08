@@ -12,7 +12,7 @@
 | :---: | :---: | :---: | :---: |
 | [Sequel of Osu](https://github.com/marceline-tavernier/sequel-osu) | February 2018 | August 2022 | 🟩 |
 | [Starfield](https://github.com/marceline-tavernier/starfield) | September 2022 | Same month | 🟩 |
-| [Hilbert Curve](https://github.com/marceline-tavernier/hilbert-curve) | xxx | Same month | 🟦 |
+| [Hilbert Curve](https://github.com/marceline-tavernier/hilbert-curve) | September 2022 | Same month | 🟨 |
 | [Menger Sponge Fractal](https://github.com/marceline-tavernier/menger-sponge-fractal) | xxx | Same month | 🟦 |
 | [Marching Squares](https://github.com/marceline-tavernier/marching-squares) | xxx | Same month | 🟦 |
 | [Maze Generator and Solver](https://github.com/marceline-tavernier/maze-generator-solver) | xxx | Same month | 🟦 |
