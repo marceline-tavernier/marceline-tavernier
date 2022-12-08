@@ -14,7 +14,7 @@
 | [Starfield](https://github.com/marceline-tavernier/starfield) | September 2022 | Same month | 🟩 |
 | [Hilbert Curve](https://github.com/marceline-tavernier/hilbert-curve) | September 2022 | Same month | 🟨 |
 | [Menger Sponge Fractal](https://github.com/marceline-tavernier/menger-sponge-fractal) | October 2022 | Same month | 🟩 |
-| [Marching Squares](https://github.com/marceline-tavernier/marching-squares) | xxx | Same month | 🟦 |
+| [Marching Squares](https://github.com/marceline-tavernier/marching-squares) | October 2022 | Same month | 🟨 |
 | [Maze Generator and Solver](https://github.com/marceline-tavernier/maze-generator-solver) | xxx | Same month | 🟦 |
 | [Mandelbrot Related Fractals](https://github.com/marceline-tavernier/mandelbrot-related-fractals) | xxx | xxx | 🟪 |
 
