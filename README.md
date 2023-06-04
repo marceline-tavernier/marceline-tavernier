@@ -16,9 +16,9 @@
 | [Menger Sponge Fractal](https://github.com/marceline-tavernier/menger-sponge-fractal) | October 2022 | Same month | 🟩 |
 | [Marching Squares](https://github.com/marceline-tavernier/marching-squares) | October 2022 | Same month | 🟩 | <!-- 3D -->
 | [Maze Generator and Solver](https://github.com/marceline-tavernier/maze-generator-solver) | November 2022 | Same month | 🟩 |
-| [Mandelbrot Related Fractals](https://github.com/marceline-tavernier/mandelbrot-related-fractals) | November 2022 | December 2022 ? | 🟦🟪🟧 |
+| [Mandelbrot Related Fractals](https://github.com/marceline-tavernier/mandelbrot-related-fractals) | November 2022 | Unknown | 🟦🟧 |
 | [Multiplication tables](https://github.com/marceline-tavernier/multiplication-tables) | December 2022 | Same month | 🟩 |
-| [Ray Tracing in One Weekend](https://github.com/marceline-tavernier/ray-tracing-weekend) | May 2023 | Same month | 🟦 |
+| [Ray Tracing in One Weekend](https://github.com/marceline-tavernier/ray-tracing-weekend) | May 2023 | June 2023 | 🟩 | <!-- GPU -->
 
 ## Details
 
