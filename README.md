@@ -19,7 +19,7 @@
 | [Mandelbrot Related Fractals](https://github.com/marceline-tavernier/mandelbrot-related-fractals) | November 2022 | 🟦🟧 |
 | [Multiplication tables](https://github.com/marceline-tavernier/multiplication-tables) | December 2022 | 🟩 |
 | [Ray Tracing in One Weekend](https://github.com/marceline-tavernier/ray-tracing-weekend) | May 2023 | 🟩 | <!-- GPU -->
-| [Steering Behaviours](https://github.com/marceline-tavernier/steering-behaviours/settings) | January 2025 | 🟩 |
+| [Steering Behaviours](https://github.com/marceline-tavernier/steering-behaviours) | January 2025 | 🟩 |
 
 ## Details
 
