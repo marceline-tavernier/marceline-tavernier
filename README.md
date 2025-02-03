@@ -21,7 +21,7 @@
 | [Ray Tracing in One Weekend](https://github.com/marceline-tavernier/ray-tracing-weekend) | May 2023 | 🟩 | <!-- GPU -->
 | [Steering Behaviours](https://github.com/marceline-tavernier/steering-behaviours) | January 2025 | 🟩 |
 | [Shader Art Coding](https://github.com/marceline-tavernier/shader-art-coding) | February 2025 | 🟦 |
-| [Marching Shader](https://github.com/marceline-tavernier/marching-shader) | February 2025 | 🟩 |
+| [Raymarching Shader](https://github.com/marceline-tavernier/raymarching-shader) | February 2025 | 🟩 |
 
 ## Details
 
