@@ -22,6 +22,7 @@
 | [Steering Behaviours](https://github.com/marceline-tavernier/steering-behaviours) | January 2025 | 🟩 |
 | [Shader Art Coding](https://github.com/marceline-tavernier/shader-art-coding) | February 2025 | 🟩 |
 | [Raymarching Shader](https://github.com/marceline-tavernier/raymarching-shader) | February 2025 | 🟨 |
+| [Path Finding](https://github.com/marceline-tavernier/path-finding) | February 2025 | 🟩 |
 
 ## Details
 
